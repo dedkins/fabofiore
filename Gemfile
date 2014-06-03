@@ -11,7 +11,8 @@ end
 
 group :production do 
   gem 'pg'
-#end
+end
+
 
 #group :development, :test do 
 # gem 'sqlite3'
